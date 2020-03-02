@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/magic-eye-clarafai/static/css/main.34d1ffc9.chunk.css",
+    "main.js": "/magic-eye-clarafai/static/js/main.926dc734.chunk.js",
+    "main.js.map": "/magic-eye-clarafai/static/js/main.926dc734.chunk.js.map",
+    "runtime-main.js": "/magic-eye-clarafai/static/js/runtime-main.b07e899b.js",
+    "runtime-main.js.map": "/magic-eye-clarafai/static/js/runtime-main.b07e899b.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/magic-eye-clarafai/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8376c1d6.chunk.js": "/magic-eye-clarafai/static/js/2.8376c1d6.chunk.js",
+    "static/js/2.8376c1d6.chunk.js.map": "/magic-eye-clarafai/static/js/2.8376c1d6.chunk.js.map",
+    "index.html": "/magic-eye-clarafai/index.html",
+    "precache-manifest.effd1c85b8c9936156fe1fe8fb4ac8ed.js": "/magic-eye-clarafai/precache-manifest.effd1c85b8c9936156fe1fe8fb4ac8ed.js",
+    "service-worker.js": "/magic-eye-clarafai/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/magic-eye-clarafai/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.34d1ffc9.chunk.css.map": "/magic-eye-clarafai/static/css/main.34d1ffc9.chunk.css.map",
+    "static/js/2.8376c1d6.chunk.js.LICENSE.txt": "/magic-eye-clarafai/static/js/2.8376c1d6.chunk.js.LICENSE.txt",
+    "static/media/london-eye.png": "/magic-eye-clarafai/static/media/london-eye.ab967ba0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b07e899b.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.8376c1d6.chunk.js",
+    "static/css/main.34d1ffc9.chunk.css",
+    "static/js/main.926dc734.chunk.js"
+  ]
+}
